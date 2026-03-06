@@ -1,0 +1,1 @@
+This project is a Scientific Calculator Web Application developed using HTML, CSS, and JavaScript. The calculator allows users to perform basic arithmetic operations as well as scientific calculations. It also includes a history panel to track previous calculations, improving usability and user experience.
